@@ -1,0 +1,5 @@
+.idea
+.terraform
+destroy.plan
+*.tfvars.bak
+*.pem
